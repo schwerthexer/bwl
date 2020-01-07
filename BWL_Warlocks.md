@@ -204,7 +204,7 @@ Ebonroc
 *	Prio 2: 
 *	Prio 3: 
 
-# Pendant of the Fallen Dragon
+Pendant of the Fallen Dragon
 >(https://classic.wowhead.com/item=19371/pendant-of-the-fallen-dragon)
 >
 >Vaelastrasz
