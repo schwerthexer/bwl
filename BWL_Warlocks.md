@@ -36,6 +36,7 @@ Nemesis Skullcap (https://classic.wowhead.com/item=16929)
 
 # Mantle of the Blackwing Cabal
 (https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
+	
 	Razorgore
 *	Alle Caster
 *	Prio 1: 
