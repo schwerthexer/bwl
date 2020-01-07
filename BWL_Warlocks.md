@@ -2,8 +2,8 @@
 
 Nemesis Boots
 > (https://classic.wowhead.com/item=16927)
->	Broodlord Lashlayer
->	Warlock T2
+>*	Broodlord Lashlayer
+>*	Warlock T2
 
 Nemesis Belt (https://classic.wowhead.com/item=16933)
 >	|Vaelastrasz
