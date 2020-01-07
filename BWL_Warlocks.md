@@ -3,12 +3,12 @@
 	T2 Set Nemesis Raiment
 
 Nemesis Boots (https://classic.wowhead.com/item=16927)
-	|Broodlord Lashlayer
-	|Warlock T2
+>	|Broodlord Lashlayer
+>	|Warlock T2
 
 Nemesis Belt (https://classic.wowhead.com/item=16933)
-	|Vaelastrasz
-	|Warlock T2
+>	|Vaelastrasz
+>	|Warlock T2
 
 Nemesis Gloves (https://classic.wowhead.com/item=16928)
 	|Ebonroc, Firemaw, Flamegor
