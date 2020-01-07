@@ -213,8 +213,8 @@ Nemesis Skullcap (https://classic.wowhead.com/item=16929)
 >*	Prio 2: 
 >*	Prio 3: 
 
-Priorität T2-Set: Kimbo, 
-Priorität alternative: Baola, 
+[ ] Priorität T2-Set: Kimbo, 
+[ ] Priorität alternative: Baola, 
 
 Ich würde mir wünschen das einige von uns (Hexern) eher auf das T2-Set gehen und andere dann eher auf alternative Items.
 Bedenkt das wir die 'alternativen Items' mit anderen Klassen wie Magiern und Schattenpriestern und Eulen teilen müssen. Eine Regelung arbeiten wir aus und der Rest läuft über die Prio-Liste und Würfelglück.
