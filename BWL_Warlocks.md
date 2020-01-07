@@ -1,10 +1,10 @@
 ## Blackwing Lair Warlocks
 
-# T2 Set Nemesis Raiment
+	T2 Set Nemesis Raiment
 
-# Nemesis Boots (https://classic.wowhead.com/item=16927)
-Broodlord Lashlayer
-Warlock T2
+	# Nemesis Boots (https://classic.wowhead.com/item=16927)
+	Broodlord Lashlayer
+	Warlock T2
 
 # Nemesis Belt (https://classic.wowhead.com/item=16933)
 Vaelastrasz
