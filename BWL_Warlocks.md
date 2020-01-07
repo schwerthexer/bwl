@@ -35,161 +35,161 @@ Nemesis Skullcap (https://classic.wowhead.com/item=16929)
 	|Warlock T2
 
 # Mantle of the Blackwing Cabal
-(https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
-	
-	Razorgore
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
+>	
+>	Razorgore
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # The Black Book
-(https://classic.wowhead.com/item=19337/the-black-book)
-
-	Razorgore
-*	Nur Warlocks, sinnloses item, ggf. für PvP, gratis?
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19337/the-black-book)
+>
+>	Razorgore
+>*	Nur Warlocks, sinnloses item, ggf. für PvP, gratis?
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Gloves of Rapid Evolution
-(https://classic.wowhead.com/item=19369/gloves-of-rapid-evolution)
-
-Razorgore
-*	Alle Caster, nicht gut für Warlocks
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19369/gloves-of-rapid-evolution)
+>
+>Razorgore
+>*	Alle Caster, nicht gut für Warlocks
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Head of Nefarian
-(https://classic.wowhead.com/item=19366/master-dragonslayers-orb)
-
-Nefarian
-*	Quest, Offhand Caster-item, Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19366/master-dragonslayers-orb)
+>
+>Nefarian
+>*	Quest, Offhand Caster-item, Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Cloak of the Brood Lord
-(https://classic.wowhead.com/item=19378/cloak-of-the-brood-lord)
-
-Nefarian
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: Kimbo
+>(https://classic.wowhead.com/item=19378/cloak-of-the-brood-lord)
+>
+>Nefarian
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: Kimbo
 
 # Neltharion's Tear
-(https://classic.wowhead.com/item=19379/neltharions-tear)
-
-Nefarian
-*	Alle Caster
-*	Prio 1: Baola
-*	Prio 2: Kimbo
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19379/neltharions-tear)
+>
+>Nefarian
+>*	Alle Caster
+>*	Prio 1: Baola
+>*	Prio 2: Kimbo
+>*	Prio 3: 
 
 # Mish'undare, Circlet of the Mind Flayer
-(https://classic.wowhead.com/item=19375/mishundare-circlet-of-the-mind-flayer)
-
-Nefarian
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: Baola
+>(https://classic.wowhead.com/item=19375/mishundare-circlet-of-the-mind-flayer)
+>
+>Nefarian
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: Baola
 
 # Staff of the Shadow Flame
-(https://classic.wowhead.com/item=19356/staff-of-the-shadow-flame)
-
-Nefarian
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19356/staff-of-the-shadow-flame)
+>
+>Nefarian
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Shadow Wing Focus Staff
-(https://classic.wowhead.com/item=19355/shadow-wing-focus-staff)
-
-Ebonroc, Firemaw, Flamegor
-*	Alle Caster, aber eher weniger gut für Warlock (wegen Spirit)
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19355/shadow-wing-focus-staff)
+>
+>Ebonroc, Firemaw, Flamegor
+>*	Alle Caster, aber eher weniger gut für Warlock (wegen Spirit)
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Claw of Chromaggus
-(https://classic.wowhead.com/item=19347/claw-of-chromaggus)
-
-Chromaggus
-*	Alle Caster, aber eher Shadow Priest und Mages
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19347/claw-of-chromaggus)
+>
+>Chromaggus
+>*	Alle Caster, aber eher Shadow Priest und Mages
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Angelista's Grasp
-(https://classic.wowhead.com/item=19388/angelistas-grasp)
-
-Chromaggus
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19388/angelistas-grasp)
+>
+>Chromaggus
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Shimmering Geta
-(https://classic.wowhead.com/item=19391/shimmering-geta)
-
-Chromaggus
-*	Alle Caster, nicht gut für Warlocks - eher Heiler, Shadow Priest und Mages
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19391/shimmering-geta)
+>
+>Chromaggus
+>*	Alle Caster, nicht gut für Warlocks - eher Heiler, Shadow Priest und Mages
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Dragon's Touch
-(https://classic.wowhead.com/item=19367/dragons-touch)
-
-Flamegor
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19367/dragons-touch)
+>
+>Flamegor
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Bracers of Arcane Accuracy
-(https://classic.wowhead.com/item=19374/bracers-of-arcane-accuracy)
-
-Broodlord Lashlayer
-*	Alle Caster
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: Baola
+>(https://classic.wowhead.com/item=19374/bracers-of-arcane-accuracy)
+>
+>Broodlord Lashlayer
+>*	Alle Caster
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: Baola
 
 # Ring of Blackrock
-(https://classic.wowhead.com/item=19397/ring-of-blackrock)
-
-Ebonroc, Firemaw, Flamegor
-*	Alle Caster, aber eher Shadow Priest und Mages
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19397/ring-of-blackrock)
+>
+>Ebonroc, Firemaw, Flamegor
+>*	Alle Caster, aber eher Shadow Priest und Mages
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Band of Forced Concentration
-(https://classic.wowhead.com/item=19403/band-of-forced-concentration)
-
-Ebonroc
-*	Alle Caster
-*	Prio 1: Kimbo
-*	Prio 2: Baola
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19403/band-of-forced-concentration)
+>
+>Ebonroc
+>*	Alle Caster
+>*	Prio 1: Kimbo
+>*	Prio 2: Baola
+>*	Prio 3: 
 
 # Black Ash Robe
-(https://classic.wowhead.com/item=19399/black-ash-robe)
-
-Firemaw
-*	Alle Caster, nicht gut für Warlocks
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
+>(https://classic.wowhead.com/item=19399/black-ash-robe)
+>
+>Firemaw
+>*	Alle Caster, nicht gut für Warlocks
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 # Firemaw's Clutch
 (https://classic.wowhead.com/item=19400/firemaws-clutch)
-
+>
 >Firemaw
 >*	Alle Caster, aber eher Shadow Priest und Mages
 >*	Prio 1: 
@@ -208,10 +208,10 @@ Firemaw
 >(https://classic.wowhead.com/item=19371/pendant-of-the-fallen-dragon)
 >
 >Vaelastrasz
->	Nicht gut für Warlocks
->	Prio 1: 
->	Prio 2: 
->	Prio 3: 
+>*	Nicht gut für Warlocks
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
 
 Priorität T2-Set: Kimbo, 
 Priorität alternative: Baola, 
