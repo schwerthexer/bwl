@@ -34,19 +34,21 @@ Nemesis Skullcap (https://classic.wowhead.com/item=16929)
 	|Onyxia
 	|Warlock T2
 
-# Mantle of the Blackwing Cabal (https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
-Razorgore
-Alle Caster
-Prio 1: 
-Prio 2: 
-Prio 3: 
+# Mantle of the Blackwing Cabal
+(https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
+	Razorgore
+	Alle Caster
+	Prio 1: 
+	Prio 2: 
+	Prio 3: 
 
-# The Black Book (https://classic.wowhead.com/item=19337/the-black-book)
-Razorgore
-Nur Warlocks, sinnloses item, ggf. für PvP, gratis?
-Prio 1: 
-Prio 2: 
-Prio 3: 
+# The Black Book
+(https://classic.wowhead.com/item=19337/the-black-book)
+	Razorgore
+	Nur Warlocks, sinnloses item, ggf. für PvP, gratis?
+	Prio 1: 
+	Prio 2: 
+	Prio 3: 
 
 # Gloves of Rapid Evolution (https://classic.wowhead.com/item=19369/gloves-of-rapid-evolution)
 Razorgore
