@@ -6,37 +6,33 @@ Nemesis Boots (https://classic.wowhead.com/item=16927)
 	|Broodlord Lashlayer
 	|Warlock T2
 
-# Nemesis Belt (https://classic.wowhead.com/item=16933)
-Vaelastrasz
-Warlock T2
+Nemesis Belt (https://classic.wowhead.com/item=16933)
+	|Vaelastrasz
+	|Warlock T2
 
-# Nemesis Gloves (https://classic.wowhead.com/item=16928)
-Ebonroc, Firemaw, Flamegor
-Warlock T2
+Nemesis Gloves (https://classic.wowhead.com/item=16928)
+	|Ebonroc, Firemaw, Flamegor
+	|Warlock T2
 
-# Nemesis Robes (https://classic.wowhead.com/item=16931)
-Nefarian
-Warlock T2
+Nemesis Robes (https://classic.wowhead.com/item=16931)
+	|Nefarian
+	|Warlock T2
 
-# Nemesis Bracers (https://classic.wowhead.com/item=16934)
-Razorgore
-Warlock T2
+Nemesis Bracers (https://classic.wowhead.com/item=16934)
+	|Razorgore
+	|Warlock T2
 
-# Nemesis Spaulders (https://classic.wowhead.com/item=16932)
-Chromaggus
-Warlock T2
+Nemesis Spaulders (https://classic.wowhead.com/item=16932)
+	|Chromaggus
+	|Warlock T2
 
---
+Nemesis Leggings (https://classic.wowhead.com/item=16930)
+	|Ragnaros
+	|Warlock T2
 
-# Nemesis Leggings (https://classic.wowhead.com/item=16930)
-Ragnaros
-Warlock T2
-
-# Nemesis Skullcap (https://classic.wowhead.com/item=16929)
-Onyxia
-Warlock T2
-
---
+Nemesis Skullcap (https://classic.wowhead.com/item=16929)
+	|Onyxia
+	|Warlock T2
 
 # Mantle of the Blackwing Cabal (https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
 Razorgore
