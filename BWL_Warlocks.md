@@ -190,28 +190,28 @@ Firemaw
 # Firemaw's Clutch
 (https://classic.wowhead.com/item=19400/firemaws-clutch)
 
-Firemaw
-*	Alle Caster, aber eher Shadow Priest und Mages
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
-
-# Ebony Flame Gloves
-(https://classic.wowhead.com/item=19407/ebony-flame-gloves)
-Ebonroc
-*	Nur Warlocks und Shadow Priest (sehr zu empfehlen für Leute die nicht auf T2 gehen)
-*	Prio 1: 
-*	Prio 2: 
-*	Prio 3: 
-
-Pendant of the Fallen Dragon
->(https://classic.wowhead.com/item=19371/pendant-of-the-fallen-dragon)
->
->Vaelastrasz
->*	Nicht gut für Warlocks
+>Firemaw
+>*	Alle Caster, aber eher Shadow Priest und Mages
 >*	Prio 1: 
 >*	Prio 2: 
 >*	Prio 3: 
+
+# Ebony Flame Gloves
+>(https://classic.wowhead.com/item=19407/ebony-flame-gloves)
+>Ebonroc
+>*	Nur Warlocks und Shadow Priest (sehr zu empfehlen für Leute die nicht auf T2 gehen)
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
+
+# Pendant of the Fallen Dragon
+>(https://classic.wowhead.com/item=19371/pendant-of-the-fallen-dragon)
+>
+>Vaelastrasz
+>	Nicht gut für Warlocks
+>	Prio 1: 
+>	Prio 2: 
+>	Prio 3: 
 
 Priorität T2-Set: Kimbo, 
 Priorität alternative: Baola, 
