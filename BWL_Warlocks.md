@@ -244,19 +244,19 @@ Wowhead Item finder: https://classic.wowhead.com/items/min-req-level:60/max-req-
 Phase 3 BiS: https://classic.wowhead.com/guides/warlock-dps-gear-bis-classic-wow#phases-phase-3
 Shadowspelldamage Items: https://classic.wowhead.com/items/min-req-level:30/max-req-level:60/side:1/class:9?filter=57;2;15#items:0-2-13+20
 
-## Shadowspelldamage Items (Phase 3)
-# Ebony Flame Gloves
+# Shadowspelldamage Items (Phase 3)
+## Ebony Flame Gloves
 >(https://classic.wowhead.com/item=19407/ebony-flame-gloves)
 >Ebonroc, BWL
 
-# Band of Dark Dominion
+## Band of Dark Dominion
 >(https://classic.wowhead.com/item=19434/band-of-dark-dominion)
 > Trash, BWL
 
-# Fel Infused Leggings
+## Fel Infused Leggings
 >(https://classic.wowhead.com/item=19133/fel-infused-leggings)
 >Lord Kazzak
 
-# Sash of Whispered Secrets
+## Sash of Whispered Secrets
 >(https://classic.wowhead.com/item=18809/sash-of-whispered-secrets)
 > Majordomo Executus, MC
