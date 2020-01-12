@@ -240,3 +240,5 @@ Die Prios Stand heute (07.01.2020) ist noch nicht final. Sollte aber helfen das 
 Mit Clea und den Magiern spreche ich noch separat, ob es irgendwelche Besonderheiten gibt.
 
 Wowhead Item finder: https://classic.wowhead.com/items/min-req-level:60/max-req-level:60/class:9/quality:4/group-by:slot?filter=128:195:214;4:1:2677;0:0:0#one-hand
+
+Phase 3 BiS: https://classic.wowhead.com/guides/warlock-dps-gear-bis-classic-wow#phases-phase-3
