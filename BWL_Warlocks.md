@@ -49,7 +49,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Mantle of the Blackwing Cabal
+## Mantle of the Blackwing Cabal
 >(https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
 >	
 >	Razorgore
@@ -58,7 +58,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# The Black Book
+## The Black Book
 >(https://classic.wowhead.com/item=19337/the-black-book)
 >
 >	Razorgore
@@ -67,7 +67,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Gloves of Rapid Evolution
+## Gloves of Rapid Evolution
 >(https://classic.wowhead.com/item=19369/gloves-of-rapid-evolution)
 >
 >Razorgore
@@ -76,7 +76,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Head of Nefarian
+## Head of Nefarian
 >(https://classic.wowhead.com/item=19366/master-dragonslayers-orb)
 >
 >Nefarian
@@ -85,7 +85,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Cloak of the Brood Lord
+## Cloak of the Brood Lord
 >(https://classic.wowhead.com/item=19378/cloak-of-the-brood-lord)
 >
 >Nefarian
@@ -94,7 +94,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: Kimbo
 
-# Neltharion's Tear
+## Neltharion's Tear
 >(https://classic.wowhead.com/item=19379/neltharions-tear)
 >
 >Nefarian
@@ -103,7 +103,7 @@ Nemesis Skullcap
 >*	Prio 2: Kimbo
 >*	Prio 3: 
 
-# Mish'undare, Circlet of the Mind Flayer
+## Mish'undare, Circlet of the Mind Flayer
 >(https://classic.wowhead.com/item=19375/mishundare-circlet-of-the-mind-flayer)
 >
 >Nefarian
@@ -112,7 +112,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: Baola
 
-# Staff of the Shadow Flame
+## Staff of the Shadow Flame
 >(https://classic.wowhead.com/item=19356/staff-of-the-shadow-flame)
 >
 >Nefarian
@@ -121,7 +121,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Shadow Wing Focus Staff
+## Shadow Wing Focus Staff
 >(https://classic.wowhead.com/item=19355/shadow-wing-focus-staff)
 >
 >Ebonroc, Firemaw, Flamegor
@@ -130,7 +130,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Claw of Chromaggus
+## Claw of Chromaggus
 >(https://classic.wowhead.com/item=19347/claw-of-chromaggus)
 >
 >Chromaggus
@@ -139,7 +139,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Angelista's Grasp
+## Angelista's Grasp
 >(https://classic.wowhead.com/item=19388/angelistas-grasp)
 >
 >Chromaggus
@@ -148,7 +148,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Shimmering Geta
+## Shimmering Geta
 >(https://classic.wowhead.com/item=19391/shimmering-geta)
 >
 >Chromaggus
@@ -157,7 +157,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Dragon's Touch
+## Dragon's Touch
 >(https://classic.wowhead.com/item=19367/dragons-touch)
 >
 >Flamegor
@@ -166,7 +166,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Bracers of Arcane Accuracy
+## Bracers of Arcane Accuracy
 >(https://classic.wowhead.com/item=19374/bracers-of-arcane-accuracy)
 >
 >Broodlord Lashlayer
@@ -175,7 +175,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: Baola
 
-# Ring of Blackrock
+## Ring of Blackrock
 >(https://classic.wowhead.com/item=19397/ring-of-blackrock)
 >
 >Ebonroc, Firemaw, Flamegor
@@ -184,7 +184,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Band of Forced Concentration
+## Band of Forced Concentration
 >(https://classic.wowhead.com/item=19403/band-of-forced-concentration)
 >
 >Ebonroc
@@ -193,7 +193,7 @@ Nemesis Skullcap
 >*	Prio 2: Baola
 >*	Prio 3: 
 
-# Black Ash Robe
+## Black Ash Robe
 >(https://classic.wowhead.com/item=19399/black-ash-robe)
 >
 >Firemaw
@@ -202,7 +202,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Firemaw's Clutch
+## Firemaw's Clutch
 (https://classic.wowhead.com/item=19400/firemaws-clutch)
 >
 >Firemaw
@@ -211,7 +211,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Ebony Flame Gloves
+## Ebony Flame Gloves
 >(https://classic.wowhead.com/item=19407/ebony-flame-gloves)
 >Ebonroc
 >*	Nur Warlocks und Shadow Priest (sehr zu empfehlen für Leute die nicht auf T2 gehen)
@@ -219,7 +219,7 @@ Nemesis Skullcap
 >*	Prio 2: 
 >*	Prio 3: 
 
-# Pendant of the Fallen Dragon
+## Pendant of the Fallen Dragon
 >(https://classic.wowhead.com/item=19371/pendant-of-the-fallen-dragon)
 >
 >Vaelastrasz
