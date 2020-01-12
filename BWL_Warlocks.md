@@ -40,6 +40,15 @@ Nemesis Skullcap
 >*	Onyxia
 >*	Warlock T2
 
+# Band of Dark Dominion
+> (https://classic.wowhead.com/item=19434/band-of-dark-dominion)
+>
+> Random Trash
+>* Nur Warlocks und Shadow Priest (BiS)
+>*	Prio 1: 
+>*	Prio 2: 
+>*	Prio 3: 
+
 # Mantle of the Blackwing Cabal
 >(https://classic.wowhead.com/item=19370/mantle-of-the-blackwing-cabal)
 >	
