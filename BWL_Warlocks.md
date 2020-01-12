@@ -1,6 +1,6 @@
 # Blackwing Lair Warlocks
 
-##Nemesis Boots
+Nemesis Boots
 > (https://classic.wowhead.com/item=16927)
 >*	Broodlord Lashlayer
 >*	Warlock T2
@@ -40,7 +40,7 @@ Nemesis Skullcap
 >*	Onyxia
 >*	Warlock T2
 
-# Band of Dark Dominion
+## Band of Dark Dominion
 > (https://classic.wowhead.com/item=19434/band-of-dark-dominion)
 >
 > Random Trash
