@@ -91,7 +91,7 @@ Nemesis Skullcap
 >Nefarian
 >*	Alle Caster
 >*	Prio 1: 
->*	Prio 2: 
+>*	Prio 2: Günther
 >*	Prio 3: Kimbo
 
 ## Neltharion's Tear
@@ -99,7 +99,7 @@ Nemesis Skullcap
 >
 >Nefarian
 >*	Alle Caster
->*	Prio 1: Baola
+>*	Prio 1: Baola, Günther
 >*	Prio 2: Kimbo
 >*	Prio 3: 
 
@@ -110,7 +110,7 @@ Nemesis Skullcap
 >*	Alle Caster
 >*	Prio 1: 
 >*	Prio 2: 
->*	Prio 3: Baola
+>*	Prio 3: Günther
 
 ## Staff of the Shadow Flame
 >(https://classic.wowhead.com/item=19356/staff-of-the-shadow-flame)
@@ -119,7 +119,7 @@ Nemesis Skullcap
 >*	Alle Caster
 >*	Prio 1: 
 >*	Prio 2: 
->*	Prio 3: 
+>*	Prio 3: Baola
 
 ## Shadow Wing Focus Staff
 >(https://classic.wowhead.com/item=19355/shadow-wing-focus-staff)
